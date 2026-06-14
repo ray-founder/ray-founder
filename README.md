@@ -22,11 +22,10 @@ Every tool is **100% client‑side**, **always free**, and **never asks for your
 
 | Tool | Description | Tech |
 |------|-------------|------|
-| **nexqr** | Instant QR code generator (URL/text → PNG) | HTML/CSS/JS |
-| **tickr** | Real‑time clock + elapsed seconds since any year | Live JS counter |
+| **tickr** | Real‑time clock + elapsed seconds since any selected year (2000–2026) | Live JS counter |
 | **emoji2entity** | Convert emoji to decimal HTML entities (e.g. `&#128512;`) | Unicode parser |
 
-🔜 *Two more privacy‑first tools are in development — no release dates, no hype, just honest code.*
+🔜 *More privacy‑first tools are in development — one is currently being renamed and will return soon. No trackers, no hype, just honest code.*
 
 ---
 
