@@ -2,9 +2,9 @@
 
 > **No tracking. No cloud. No uploads. Just pure code running where it belongs: in your browser.**
 
-[![Website](https://img.shields.io/badge/🌐_Visit_PRIV.web-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.priv.web.id/)
-[![Privacy First](https://img.shields.io/badge/🔒_Privacy_First-100%25_Client_Side-2ea44f?style=for-the-badge)](https://www.priv.web.id/)
-[![Ko-fi](https://img.shields.io/badge/☕_Support_privacy-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ray_founder)
+[![Website](https://img.shields.io/badge/🌐_Visit_PRIV.web-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://privweb.org/)
+[![Privacy First](https://img.shields.io/badge/🔒_Privacy_First-100%25_Client_Side-2ea44f?style=for-the-badge)](https://privweb.org/)
+[![Ko-fi](https://img.shields.io/badge/☕_Support_privacy-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/privweb)
 
 ---
 
@@ -52,15 +52,15 @@ Every tool:
 I build and maintain these tools alone, in my free time, because I believe the web shouldn't spy on you.  
 If you find value in a tracking‑free internet, consider buying me a coffee:
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ray_founder)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/privweb)
 
-You can also support via **crypto** using the widget on [priv.web.id](https://www.priv.web.id/#support).
+You can also support via **crypto** using the widget on [priv.web.id](https://privweb.org/#support).
 
 ---
 
 ## 📌 Stay connected
 
-- 🌍 Website: [priv.web.id](https://www.priv.web.id/)
+- 🌍 Website: [privweb.org](https://privweb.org/)
 - 📧 No newsletter — because even that would require tracking 😉
 
 > *"Every click, every file, every character should stay yours."* — PRIV web
