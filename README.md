@@ -54,7 +54,7 @@ If you find value in a tracking‑free internet, consider buying me a coffee:
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/privweb)
 
-You can also support via **crypto** using the widget on [priv.web.id](https://privweb.org/#support).
+You can also support via **crypto** using the widget on [privweb.org](https://privweb.org/#support).
 
 ---
 
